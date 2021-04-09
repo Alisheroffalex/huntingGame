@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Hunting Game\Hunting Game\bin\Debug\Hunting Game.exe.config
+C:\Users\User\source\repos\Hunting Game\Hunting Game\bin\Debug\Hunting Game.exe
+C:\Users\User\source\repos\Hunting Game\Hunting Game\bin\Debug\Hunting Game.pdb
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting Game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting_Game.Form1.resources
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting_Game.Properties.Resources.resources
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting Game.exe
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting Game.pdb
+C:\Users\User\source\repos\Hunting Game\Hunting Game\obj\Debug\Hunting_Game.Form2.resources
